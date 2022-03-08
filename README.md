@@ -4,7 +4,6 @@
 - Atualmente estou fazendo tecnico de TI e estou me aprofundando na parte de back-end.
 - Estou usando e estudando as linguagens: HTML, CSS, SASS, JS, PHP e JAVA.
 - Também estou usando e estudando os framework:  Bootstrap, Jquery.
-- Pretendo fazer faculdade de segurança da informação e seguir trabalhando neste mercado.
 <br>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
